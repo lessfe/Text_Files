@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\vladi\source\repos\Text_Files\Text_Files\Source.cpp(48,5): warning C4390: ";": обнаружен пустой контролируемый оператор; это правильно?
+Text_Files.obj : error LNK2005: "int __cdecl get_line_size(char * const,int)" (?get_line_size@@YAHQADH@Z) уже определен в Source.obj
+Text_Files.obj : error LNK2005: _main уже определен в Source.obj
+C:\Users\vladi\source\repos\Text_Files\Debug\Text_Files.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
